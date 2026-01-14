@@ -60,7 +60,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/hankhjliao/RSS2Instapaper](https://github.com/hankhjliao/RSS2Instapaper)
 
 ## Acknowledgements
-- [GETTING STARTED WITH THE POCKET DEVELOPER API](https://www.jamesfmackenzie.com/getting-started-with-the-pocket-developer-api/)
-- [Pocket API: Documentation Overview](https://getpocket.com/developer/docs/overview)
+- [Instapaper - Simple Developer API: Adding Pages to Instapaper](https://www.instapaper.com/api/simple)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
